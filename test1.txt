@@ -1,0 +1,10 @@
+ Volume in drive F has no label.
+ Volume Serial Number is C821-844F
+
+ Directory of F:\My Git Project
+
+18-06-2018  13:03    <DIR>          .
+18-06-2018  13:03    <DIR>          ..
+18-06-2018  13:03                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  124,322,254,848 bytes free
